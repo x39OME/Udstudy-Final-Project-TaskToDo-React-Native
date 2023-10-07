@@ -1,6 +1,6 @@
 const Copyright = [
   {
-    name: "",
+    name: "Sam",
     address: "",
   }
 ];

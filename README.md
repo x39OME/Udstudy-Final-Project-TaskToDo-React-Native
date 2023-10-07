@@ -2,7 +2,7 @@
 
 ### Task To Do
     
-  - [React Native App](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206/Final%20Project/TaskToDo)
+  - [React Native App](https://github.com/x39OME/Ustudy-Final-Project-TaskToDo-React-Native/tree/main)
     ```
       ● Create a React Native Application
     ```
